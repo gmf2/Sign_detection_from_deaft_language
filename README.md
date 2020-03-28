@@ -3,3 +3,5 @@ This project consists on the detection and recognition of the different signs in
 
 Also, other technologies depending on the project step has been used as:
 1-Recognition of data points related to the different parts of the body: OpenPose
+
+It has been used different sklearn models in order to find a best accuracy.
